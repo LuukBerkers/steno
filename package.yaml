@@ -1,10 +1,9 @@
 name:                steno
 version:             0.1.0.0
-github:              "Github username here/steno"
-license:             BSD3
-author:              "Author name here"
-maintainer:          "Author email here"
-copyright:           "2019 Author name here"
+github:              "LuukBerkers/steno"
+license:             GPL-3.0-or-later
+author:              "Luuk Berkers"
+copyright:           "2022 Luuk Berkers"
 
 extra-source-files:
 - README.md
